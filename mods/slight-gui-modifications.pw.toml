@@ -1,0 +1,13 @@
+name = "'Slight' Gui Modifications"
+filename = "slight-gui-modifications-2.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/O7JVMrQX/versions/2.2.0/slight-gui-modifications-2.2.0.jar"
+hash-format = "sha1"
+hash = "f1e0111effc7b3cacd8531465982b85f7482c473"
+
+[update]
+[update.modrinth]
+mod-id = "O7JVMrQX"
+version = "ShVdwo1n"

@@ -1,0 +1,10 @@
+name = "Client Commands"
+filename = "clientcommands-2.7.jar"
+side = "client"
+
+[download]
+url = "https://github.com/Earthcomputer/clientcommands/releases/download/v2.7/clientcommands-2.7.jar"
+hash-format = "sha256"
+hash = "d0fb5910d31645dbc51fed7e1fcf078e1a51ef2aea53115069349aa18182d2fb"
+
+# GitHub Link: https://github.com/Earthcomputer/clientcommands/releases
