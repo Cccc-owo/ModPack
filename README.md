@@ -42,26 +42,27 @@ Obviously, this modpack is for Fabric, and I do NOT have any intension to make a
 
 |   Mods    |   1.19    |    1.18.2    |    1.16.5    |
 |-----------|-----------|-----------|-----------|
-|Alternate Current|✅|||
-|Amecs|✅|||
-|Animatica|✅|||
-|Architectury API|✅|||
-|Armor Points ++ / Health Stacking|✅|||
-|AttributeFix|✅|||
-|Auto HUD|✅|||
-|bad packets|✅|||
-|Balm|✅|||
-|Better Mount HUD|✅|||
-|Better Safe Bed|✅|||
-|Better Sodium Video Settings Button|⭕ (You can go to <https://www.curseforge.com/minecraft/mc-mods/better-sodium-video-settings-button/files> and download it by yourself)|||
-|Boat Item View|✅|||
-|Borderless Mining|✅|||
-|Better Recipe Book|✅|||
-|cAn i MiNe thIS bLOCk?|✅|||
-|Carpet Extra|✅|||
-|Carpet-Fixes|✅|||
-|Carpet|✅|||
-|Chat Heads|✅|||
+|Alternate Current|✅||✅|
+|Amecs|✅||✅|
+|Animatica|✅||❌|
+|Architectury API|✅||✅|
+|Armor Points ++ / Health Stacking|✅||❌|
+|AttributeFix|✅||❌|
+|Auto HUD|✅||❌|
+|bad packets|✅||❌ (no need)|
+|Balm|✅||❌|
+|Better Drpped Items|❌|✅|✅|
+|Better Mount HUD|✅||❌|
+|Better Safe Bed|✅||✅|
+|Better Sodium Video Settings Button|⭕ (You can go to <https://www.curseforge.com/minecraft/mc-mods/better-sodium-video-settings-button/files> and download it by yourself)|⭕|⭕|
+|Boat Item View|✅||✅|
+|Borderless Mining|✅||✅|
+|Better Recipe Book|✅||❌|
+|cAn i MiNe thIS bLOCk?|✅||✅|
+|Carpet Extra|✅||✅|
+|Carpet-Fixes|✅||❌|
+|Carpet|✅||✅|
+|Chat Heads|✅||✅|
 |Chime|✅|||
 |CIT Resewn|✅|||
 |Client Commands|✅|||
