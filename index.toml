@@ -211,13 +211,13 @@ hash = "200797c3f731a126fad409a7afa6e737af4a1e860a0d6954b48b18bb0922f3ec"
 metafile = true
 
 [[files]]
-file = "mods/ferrite-core.pw.toml"
-hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
+file = "mods/fastload.pw.toml"
+hash = "a3d4421cfbd88626b4f27c8a6f251a6342d669bfeaf57d56de864688df550412"
 metafile = true
 
 [[files]]
-file = "mods/forcecloseworldloadingscreen.pw.toml"
-hash = "0c7c2c37874d5341092e6c63f95f4f95d7fa804e1c28ea9e83c1ed5115dcf12f"
+file = "mods/ferrite-core.pw.toml"
+hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
 metafile = true
 
 [[files]]
@@ -423,6 +423,11 @@ metafile = true
 [[files]]
 file = "mods/viafabric.pw.toml"
 hash = "c9463ae707c135b52a16571a068f4a56edfc3e53aca6cbb95b2f47817a6427b1"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "1019a95bc491e51612313e91338271ca19fc1e572b9f48a2f9bfd3d5fbf88b71"
 metafile = true
 
 [[files]]

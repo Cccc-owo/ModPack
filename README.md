@@ -80,8 +80,8 @@ Obviously, this modpack is for Fabric, and I do NOT have any intension to make a
 |FabricSkyboxes|✅|
 |Fabrishot|✅|
 |Falling Leaves|✅|
+|Fastload|✅|
 |FerriteCore|✅|
-|kennytvs-epic-force-close-loading-screen-mod-for-fabric|✅|
 |Held Item Info|✅|
 |Horse Stats Vanilla|✅|
 |IMBlockerFabric|✅|
@@ -126,6 +126,7 @@ Obviously, this modpack is for Fabric, and I do NOT have any intension to make a
 |UI Input Undo (Fabric)|✅|
 |VehicleFix|✅|
 |ViaFabric|✅|
+|Very Many Players (Fabric)|✅|
 |Wavey Capes|✅|
 |Wild Firefly|✅|
 |Multi World Borders|✅|
