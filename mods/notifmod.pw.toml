@@ -1,13 +1,13 @@
 name = "NotifMod"
-filename = "NotifMod-1.2.5.jar"
+filename = "NotifMod-1.2.6.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/bmK8wGFt/versions/1.2.5/NotifMod-1.2.5.jar"
+url = "https://cdn.modrinth.com/data/bmK8wGFt/versions/1.2.6/NotifMod-1.2.6.jar"
 hash-format = "sha1"
-hash = "69d567240f501032639fde4f30c58d64579fc895"
+hash = "08f51bdeaa0df5c957c3bc317885b67b866d17a5"
 
 [update]
 [update.modrinth]
 mod-id = "bmK8wGFt"
-version = "p35eYv7O"
+version = "zrWmLgF1"

@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/notifmod.pw.toml"
-hash = "533c8ff3224f696915a5bc9bd33bd9fe5a6b0427756fc9058c8bcb6eafec313a"
+hash = "d952892869acfcb10eb14f20956453db22b70e27b40e16aa0052136c959f1a0f"
 metafile = true
 
 [[files]]
