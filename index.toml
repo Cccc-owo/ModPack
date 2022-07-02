@@ -56,11 +56,6 @@ hash = "067ce28d816f9ecf8796dea0cb3ab4734683cd7ee0e80fa524af217c4c1ce381"
 metafile = true
 
 [[files]]
-file = "mods/better-sodium-video-settings-button.pw.toml"
-hash = "05c432ad205a2720977639f9382dc768bc6cf8360e791cc923ea65f400701646"
-metafile = true
-
-[[files]]
 file = "mods/boat-item-view.pw.toml"
 hash = "67239981d8f29860e0de6d2462630a9eeb839ee44b633c3dc3d41e8760426a08"
 metafile = true

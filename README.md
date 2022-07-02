@@ -49,7 +49,7 @@ Obviously, this modpack is for Fabric, and I do NOT have any intension to make a
 |Balm|✅|
 |Better Mount HUD|✅|
 |Better Safe Bed|✅|
-|Better Sodium Video Settings Button|✅|
+|Better Sodium Video Settings Button|⭕ (You can go to <https://www.curseforge.com/minecraft/mc-mods/better-sodium-video-settings-button/files> and download it by yourself)|
 |Boat Item View|✅|
 |Borderless Mining|✅|
 |Better Recipe Book|✅|
