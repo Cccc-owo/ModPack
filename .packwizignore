@@ -3,4 +3,12 @@
 
 # Exclude README
 /README.md
+
+# Exclude packwiz.exe
 /packwiz.exe
+
+# Exclude disabled mods
+/disabled_mods/
+
+# Exclude .github folder
+/.github/
