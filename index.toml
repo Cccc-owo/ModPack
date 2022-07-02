@@ -111,6 +111,11 @@ hash = "c47b4e6dea49ed224870b70e2101f7dfea59c63490cca1d5f5a1dd43b18c56ef"
 metafile = true
 
 [[files]]
+file = "mods/client-commands.pw.toml"
+hash = "80e8cbc50618981b86814cb30a017e89dcff9a302d2c2461b2803046a46147c4"
+metafile = true
+
+[[files]]
 file = "mods/cloth-api.pw.toml"
 hash = "a24a98749cf572397b9c0ed2a892814b7ce93bb743a73510a348f150ae8745a9"
 metafile = true
@@ -344,12 +349,6 @@ metafile = true
 file = "mods/optigui.pw.toml"
 hash = "6abb2071e06ebda2ee6ceee2a0a469e71d04934069dcd351ed13ccba8b1e4ef7"
 metafile = true
-
-# Use Starlight instead of Phosphor
-# [[files]]
-# file = "mods/phosphor.pw.toml"
-# hash = "466d5892937df5aa05388291463b163b42fa454d8bfd22713484a0167ca3702d"
-# metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"

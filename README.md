@@ -89,6 +89,7 @@ Obviously, this modpack is for Fabric, and I do NOT have any intension to make a
 |Inventory Profiles Next|✅|
 |Iris Shaders|✅|
 |Item Model Fix|✅|
+|JSON Model Extensions|⭕ (see <https://github.com/tr7zw/WaveyCapes/issues/20>)|
 |Know My Name!|✅|
 |Krypton|✅|
 |LambdaBetterGrass|✅|
