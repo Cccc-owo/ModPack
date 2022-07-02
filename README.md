@@ -1,5 +1,7 @@
 # Cccc's Simple Modpack
 
+![icon](cover.png)
+
 Hi, This is my modpack's source code. Some information is the following.
 
 **Powered by [packwiz](https://github.com/packwiz/packwiz)**
