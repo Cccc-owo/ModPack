@@ -1,10 +1,13 @@
-name = "Client Commands"
+name = "clientcommands"
 filename = "clientcommands-2.7.jar"
 side = "client"
 
 [download]
-url = "https://github.com/Earthcomputer/clientcommands/releases/download/v2.7/clientcommands-2.7.jar"
-hash-format = "sha256"
-hash = "d0fb5910d31645dbc51fed7e1fcf078e1a51ef2aea53115069349aa18182d2fb"
+url = "https://cdn.modrinth.com/data/7Coz83fv/versions/2.7/clientcommands-2.7.jar"
+hash-format = "sha1"
+hash = "1a1fe3fc5ce08ffdb667475f6e6abab393946911"
 
-# GitHub Link: https://github.com/Earthcomputer/clientcommands/releases
+[update]
+[update.modrinth]
+mod-id = "7Coz83fv"
+version = "Rm3OhRKR"

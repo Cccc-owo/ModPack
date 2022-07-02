@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/client-commands.pw.toml"
-hash = "80e8cbc50618981b86814cb30a017e89dcff9a302d2c2461b2803046a46147c4"
+hash = "faf81a07ee67d7b2d43f56d196acbf0a329c24ab0ef62f3e07c644d0d84d0a8c"
 metafile = true
 
 [[files]]
