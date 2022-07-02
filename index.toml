@@ -315,12 +315,6 @@ file = "mods/moremcmeta.pw.toml"
 hash = "b97d4fac95e176e66acf9ea65b4a8b940f8a4074aa707a636f6cde8e6fb66242"
 metafile = true
 
-# Annotate it temporarily because it may lead to a problem with wildfirefly which adds some items.
-# [[files]]
-# file = "mods/multiconnect.pw.toml"
-# hash = "68d172c139f920e6953ea93558de9d545c73d878a82d6a76bb38941abb5599f1"
-# metafile = true
-
 [[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "b5141c0055ba35ade5a2875969bad890b0c4b80e44d5e22574a122b0b53dbd4e"
@@ -350,6 +344,12 @@ metafile = true
 file = "mods/optigui.pw.toml"
 hash = "6abb2071e06ebda2ee6ceee2a0a469e71d04934069dcd351ed13ccba8b1e4ef7"
 metafile = true
+
+# Use Starlight instead of Phosphor
+# [[files]]
+# file = "mods/phosphor.pw.toml"
+# hash = "466d5892937df5aa05388291463b163b42fa454d8bfd22713484a0167ca3702d"
+# metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
