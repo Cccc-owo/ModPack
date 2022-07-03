@@ -54,7 +54,7 @@ Obviously, this modpack is for Fabric, and I do NOT have any intension to make a
 |Better Drpped Items|❌|✅|✅|
 |Better Mount HUD|✅||❌|
 |Better Safe Bed|✅||✅|
-|Better Sodium Video Settings Button|⭕ (You can go [here](https://www.curseforge.com/minecraft/mc-mods/better-sodium-video-settings-button/files) and download it by yourself)|⭕|⭕|
+|Better Sodium Video Settings Button|✅|✅|✅|
 |Boat Item View|✅||✅|
 |Borderless Mining|✅||✅|
 |Better Recipe Book|✅||✅|
@@ -98,7 +98,7 @@ Obviously, this modpack is for Fabric, and I do NOT have any intension to make a
 |Iris Shaders|✅||✅|
 |Item Model Fix|✅||✅|
 |Item Scroller|❌|✅|✅|
-|JSON Model Extensions|⭕ (see <https://github.com/tr7zw/WaveyCapes/issues/20>)|❌|❌|
+|JSON Model Extensions|⭕ (see [WaveyCapes/issues/20](https://github.com/tr7zw/WaveyCapes/issues/20))|❌|❌|
 |Know My Name!|✅||❌|
 |Krypton|✅||✅|
 |LambdaBetterGrass|✅||✅|
@@ -116,13 +116,13 @@ Obviously, this modpack is for Fabric, and I do NOT have any intension to make a
 |ModUpdater|❌|❌|✅|
 |More Culling|✅||❌|
 |MoreMcmeta|✅||✅|
-|multiconnect|⭕ (see <https://github.com/FireMuffin303/WildFirefly/issues/2>)||✅(From GitHub)|
+|multiconnect|⭕ (see [WildFirefly/issues/2](https://github.com/FireMuffin303/WildFirefly/issues/2))||✅(From GitHub)|
 |NetherPortalFix|✅||❌|
 |No More Useless Keys - NMUK|✅||✅|
 |No Chat Reports|✅||❌|
 |Not Enough Animations|✅||✅|
 |NotifMod|✅||✅|
-|Ok Zoomer|⭕(quilt needed)||✅|
+|Ok Zoomer|⭕ (quilt needed)||✅|
 |OptiGUI|✅||❌|
 |Phosphor|⭕ (Choose Starlight as replacement)||✅|
 |Reese's Sodium Options|✅||✅|
