@@ -12,3 +12,6 @@
 
 # Exclude .github folder
 /.github/
+
+# Exclude cover.png
+/cover.png

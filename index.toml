@@ -5,10 +5,6 @@ file = "LICENSE"
 hash = "8108bb454d96cd1196f08f87b3fc973add1a9755a609908164a3cc30b63937dd"
 
 [[files]]
-file = "cover.png"
-hash = "1d724276655fe42362fd9d3578836b9034769405b0c2d5765e38688dcc9ea9a9"
-
-[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "bb899d05b83089c2e1b4d5eed5f67796fd849b478f967019c660cfea67f22ca9"
 metafile = true
@@ -356,11 +352,6 @@ metafile = true
 [[files]]
 file = "mods/transliterationlib.pw.toml"
 hash = "b97e70a89e474dbca792257920c6b6b24846c99fc2ba89b1262763207ab4e88c"
-metafile = true
-
-[[files]]
-file = "mods/tweakermore.pw.toml"
-hash = "76a9f52cdff14c9636f2db49abb7c7329b55786b166f29af34cfbcfd5d002f91"
 metafile = true
 
 [[files]]
