@@ -36,7 +36,7 @@ Obviously, this modpack is for Fabric, and I do NOT have any intension to make a
 
 *⭕ means this mod has compatibility problems with some of the others (it will be specifically mark out).
 
-*❌ means this mod doesn't have corresponding version.
+*❌ means this mod doesn't have corresponding version or dosen't need it.
 
 <details><summary>Expand The Mod Table</summary>
 
@@ -54,89 +54,103 @@ Obviously, this modpack is for Fabric, and I do NOT have any intension to make a
 |Better Drpped Items|❌|✅|✅|
 |Better Mount HUD|✅||❌|
 |Better Safe Bed|✅||✅|
-|Better Sodium Video Settings Button|⭕ (You can go to <https://www.curseforge.com/minecraft/mc-mods/better-sodium-video-settings-button/files> and download it by yourself)|⭕|⭕|
+|Better Sodium Video Settings Button|⭕ (You can go [here](https://www.curseforge.com/minecraft/mc-mods/better-sodium-video-settings-button/files) and download it by yourself)|⭕|⭕|
 |Boat Item View|✅||✅|
 |Borderless Mining|✅||✅|
-|Better Recipe Book|✅||❌|
+|Better Recipe Book|✅||✅|
 |cAn i MiNe thIS bLOCk?|✅||✅|
 |Carpet Extra|✅||✅|
 |Carpet-Fixes|✅||❌|
 |Carpet|✅||✅|
 |Chat Heads|✅||✅|
-|Chime|✅|||
-|CIT Resewn|✅|||
-|Client Commands|✅|||
-|Cloth API (Fabric)|✅|||
-|Cloth Config API (Fabric/Forge)|✅|||
-|Colormatic|✅|||
-|Continuity|✅|||
-|Crowmap|✅|||
-|CustomSkinLoader|✅|||
-|Don't Clear Chat History|✅|||
-|Debugify|✅|||
-|Detail Armor Bar|✅|||
-|Dynamic FPS|✅|||
-|Dynamic Crosshair|✅|||
-|Enhanced Block Entities|✅|||
-|Enhanced Attack Indicator|✅|||
-|Entity Texture Features [Fabric]|✅|||
-|Fabric API|✅|||
-|Fabric Language Kotlin|✅|||
-|FabricSkyboxes|✅|||
-|Fabrishot|✅|||
-|Falling Leaves|✅|||
-|Fastload|✅|||
-|FerriteCore|✅|||
-|Held Item Info|✅|||
-|Horse Stats Vanilla|✅|||
-|IMBlockerFabric|✅|||
-|Indium|✅|||
-|Inventory Profiles Next|✅|||
-|Iris Shaders|✅|||
-|Item Model Fix|✅|||
-|JSON Model Extensions|⭕ (see <https://github.com/tr7zw/WaveyCapes/issues/20>)|||
-|Know My Name!|✅|||
-|Krypton|✅|||
-|LambdaBetterGrass|✅|||
-|LambDynamicLights|✅|||
-|Language Reload|✅|||
-|LazyDFU|✅|||
-|Lithium|✅|||
-|Make Bubbles Pop|✅|||
-|LAN World Plug-n-Play (mcwifipnp)|✅|||
-|Memory Leak Fix|✅|||
-|Mod Menu|✅|||
-|More Culling|✅|||
-|MoreMcmeta|✅|||
-|multiconnect|⭕ (see <https://github.com/FireMuffin303/WildFirefly/issues/2>)|||
-|NetherPortalFix|✅|||
-|No More Useless Keys - NMUK|✅|||
-|No Chat Reports|✅|||
-|Not Enough Animations|✅|||
-|NotifMod|✅|||
-|OptiGUI|✅|||
-|Phosphor|⭕ (Choose Starlight as replacement)|||
-|Reese's Sodium Options|✅|||
-|Roughly Enough Items (REI)|✅|||
-|Show Me Your Skin!|✅|||
-|Simple Voice Chat|✅|||
-|'Slight' Gui Modifications|✅|||
-|Sodium Extra|✅|||
-|Sodium|✅|||
-|Starlight (Fabric)|✅|||
-|Suggestion Tweaker|✅|||
-|Symbol Chat|✅|||
-|thorium|✅|||
-|TieFix|✅|||
-|UI Input Undo (Fabric)|✅|||
-|VehicleFix|✅|||
-|ViaFabric|✅|||
-|Very Many Players (Fabric)|✅|||
-|Wavey Capes|✅|||
+|Chime|✅||✅|
+|CIT Resewn|✅||❌|
+|Client Commands|✅||✅(From GitHub)|
+|Cloth API (Fabric)|✅||✅|
+|Cloth Config API (Fabric/Forge)|✅||✅|
+|Colormatic|✅||✅|
+|Continuity|✅||❌|
+|Crowmap|✅||✅|
+|CustomSkinLoader|✅||✅|
+|Don't Clear Chat History|✅||✅|
+|Don't Drop It!|||✅|
+|Debugify|✅||❌|
+|Detail Armor Bar|✅||✅|
+|Dynamic FPS|✅||✅|
+|Dynamic Crosshair|✅||❌|
+|Enhanced Block Entities|✅||✅|
+|Enhanced Attack Indicator|✅||✅|
+|Entity Texture Features [Fabric]|✅||✅|
+|Fabric API|✅||✅|
+|FabricCrossDimTPFix|❌|✅|✅|
+|Fabric Language Kotlin|✅||✅|
+|FabricSkyboxes|✅||✅|
+|Fabrishot|✅||✅|
+|Falling Leaves|✅||✅|
+|Fastload|✅||❌|
+|FerriteCore|✅||✅|
+|Held Item Info|✅||✅|
+|Horse Stats Vanilla|✅||✅|
+|IMBlockerFabric|✅||✅|
+|Improved Fire Overlay|✅|✅|✅|
+|Indium|✅||✅|
+|Inventory Profiles Next|✅||✅|
+|Iris Shaders|✅||✅|
+|Item Model Fix|✅||✅|
+|Item Scroller|❌|✅|✅|
+|JSON Model Extensions|⭕ (see <https://github.com/tr7zw/WaveyCapes/issues/20>)|❌|❌|
+|Know My Name!|✅||❌|
+|Krypton|✅||✅|
+|LambdaBetterGrass|✅||✅|
+|LambDynamicLights|✅||✅|
+|Language Reload|✅||❌|
+|LazyDFU|✅||✅|
+|Litematica|❌|✅|✅|
+|Lithium|✅||✅|
+|Make Bubbles Pop|✅||❌|
+|malilib|❌|✅|✅|
+|LAN World Plug-n-Play (mcwifipnp)|✅||✅|
+|Memory Leak Fix|✅||❌|
+|MiniHUD|❌|✅|✅|
+|Mod Menu|✅||✅|
+|ModUpdater|❌|❌|✅|
+|More Culling|✅||❌|
+|MoreMcmeta|✅||✅|
+|multiconnect|⭕ (see <https://github.com/FireMuffin303/WildFirefly/issues/2>)||✅(From GitHub)|
+|NetherPortalFix|✅||❌|
+|No More Useless Keys - NMUK|✅||✅|
+|No Chat Reports|✅||❌|
+|Not Enough Animations|✅||✅|
+|NotifMod|✅||✅|
+|Ok Zoomer|⭕(quilt needed)||✅|
+|OptiGUI|✅||❌|
+|Phosphor|⭕ (Choose Starlight as replacement)||✅|
+|Reese's Sodium Options|✅||✅|
+|Roughly Enough Items (REI)|✅||✅|
+|Show Me Your Skin!|✅||❌|
+|Simple Voice Chat|✅||❌|
+|'Slight' Gui Modifications|✅||✅|
+|Sodium Extra|✅||✅|
+|Sodium|✅||✅|
+|Starlight (Fabric)|✅||❌|
+|Suggestion Tweaker|✅||❌|
+|Symbol Chat|✅||❌|
+|thorium|✅||❌|
+|Tooltips+|✅|❌|✅|
+|TieFix|✅||❌|
+|Title Fixer|❌|❌|✅|
+|TRansliterationLib|❌|❌|✅|
+|Tweakermore|❌|✅|✅|
+|Tweakeroo|❌|✅|✅|
+|UI Input Undo (Fabric)|✅||❌|
+|VehicleFix|✅||❌|
+|ViaFabric|✅||✅|
+|Very Many Players (Fabric)|✅||❌|
+|Wavey Capes|✅||✅|
 |Wild Firefly|✅|||
-|Multi World Borders|✅|||
-|WTHIT|✅|||
-|Your Options Shall Be Respected (YOSBR)|✅|||
-|Zoomify|✅|||
+|Multi World Borders|✅||✅|
+|WTHIT|✅||✅|
+|Your Options Shall Be Respected (YOSBR)|✅||✅|
+|Zoomify|✅||❌|
 
 </details>
