@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/detail-armor-bar.pw.toml"
-hash = "83bd6a00d9f8267328ca8015d79c40be3de977ac7aa12fe978fc41c19b9643ae"
+hash = "31fd660d62b619df1165a0e594a2ca3eba93c790ea14fbcbab64c94bfe9ad257"
 metafile = true
 
 [[files]]
@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "9611f32bc292985e124bc568db7f5c8c9c2660d02a92f4eaa80d6455d82d0713"
+hash = "c57ab7e92b672af93416304950b083d0b20aabe41af61d0993292dfef80744bf"
 metafile = true
 
 [[files]]
