@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "8108bb454d96cd1196f08f87b3fc973add1a9755a609908164a3cc30b63937dd"
+
+[[files]]
+file = "cover.png"
+hash = "1d724276655fe42362fd9d3578836b9034769405b0c2d5765e38688dcc9ea9a9"
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "fda319290cfe268fdc7c6c6ca8dcad24e51c1de98442f23f2a41d657b26fc8d0"
 metafile = true
@@ -53,6 +61,11 @@ metafile = true
 [[files]]
 file = "mods/better-safe-bed.pw.toml"
 hash = "067ce28d816f9ecf8796dea0cb3ab4734683cd7ee0e80fa524af217c4c1ce381"
+metafile = true
+
+[[files]]
+file = "mods/better-sodium-video-settings-button.pw.toml"
+hash = "05c432ad205a2720977639f9382dc768bc6cf8360e791cc923ea65f400701646"
 metafile = true
 
 [[files]]
@@ -231,6 +244,11 @@ hash = "c94c1de037596582d9d417f6efd87b5076e66f533073bce83de94b4a7bb20d30"
 metafile = true
 
 [[files]]
+file = "mods/improved-fire-overlay.pw.toml"
+hash = "2bfa8d16ae071c82656e11f972610ebaed340f20118cc58e4e8548fe65a671e1"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "b5ecdce430ae016b791f415ef55f6740dcfd422cdb24c2ea78e4ec677cc7921e"
 metafile = true
@@ -307,12 +325,12 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "863a1aafb79c5db742011bf4af2b5148bfdff756c1db24b3dd8b91f856428368"
+hash = "e6cff330f7783c57280b09666f186483bc51ecc60d5654eddfe4e1079be0614a"
 metafile = true
 
 [[files]]
 file = "mods/moremcmeta.pw.toml"
-hash = "b97d4fac95e176e66acf9ea65b4a8b940f8a4074aa707a636f6cde8e6fb66242"
+hash = "bbf8a6fbb8b3ad41f6be33d9438ac1241ad979ee6323b44b668a7ed0a35b7d2d"
 metafile = true
 
 [[files]]
