@@ -1,13 +1,13 @@
 name = "Wild Firefly"
-filename = "WildFireFly-1.1-1.19.jar"
+filename = "WildFireFly-1.2-release.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/CLsLjOJs/versions/1.1-release/WildFireFly-1.1-1.19.jar"
+url = "https://cdn.modrinth.com/data/CLsLjOJs/versions/1.2/WildFireFly-1.2-release.jar"
 hash-format = "sha1"
-hash = "18398d43fc9686a4f3b150a516b131c279c819c6"
+hash = "cc0e2a87306980bc8a18e4b2143268cd68351835"
 
 [update]
 [update.modrinth]
 mod-id = "CLsLjOJs"
-version = "RPDDFOlF"
+version = "2rvNwqe9"

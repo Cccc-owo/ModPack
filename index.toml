@@ -21,7 +21,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "826a261afe006c3d29a03c0b76fb861495dfa37261e816323045b9eccd567969"
+hash = "de6d50da50da827ee4c4f2a6d23a936b54aef90acbf2bbbd019fed216b21f2ab"
 metafile = true
 
 [[files]]
@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-fixes.pw.toml"
-hash = "070e51790202072e67cc2ec1ba2357203d929ccc8d9b89c238d1986c49a01dd1"
+hash = "8cfe6fd7b3cb91b32b487a6cd3493a3ec050f239efe327b912248a8192a83495"
 metafile = true
 
 [[files]]
@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "a7d935604f4b0028bd9dc12c9ac76a24e80749982e4364a2ed5ac542ccc73c1d"
+hash = "4c417bc89ddd9c3ab9f3719b90dfea4379ebcc52a9fe16d08ec7c496ec96fb6d"
 metafile = true
 
 [[files]]
@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "a3d4421cfbd88626b4f27c8a6f251a6342d669bfeaf57d56de864688df550412"
+hash = "ac0a425f01b57603d143e65eebba8b53078474c61f8f0a9a35ab2bbd7ed3a931"
 metafile = true
 
 [[files]]
@@ -321,7 +321,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "e6cff330f7783c57280b09666f186483bc51ecc60d5654eddfe4e1079be0614a"
+hash = "666ebc5403d60bbaea03d0c82e83e3f1fa75756a77501dab3ec2a7b7bf2b24dd"
 metafile = true
 
 [[files]]
@@ -366,7 +366,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "851fdf81c316d9bc5e9d3afde007d92708a8a8cabf7d3f202e7c59c46ac591bb"
+hash = "800dbeeb7a5e8a92cc64118b9c75c33ed9f426d9b83a0e378f564650633f2509"
 metafile = true
 
 [[files]]
@@ -376,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "779d1b48e9f7d9a8693dd2735bd65dafc99664459078d6c51844a5a3fdb3040c"
+hash = "55b9d66bb3b6fe78e3f79d0018870efdafa51f04441bb32d410650b7a178e0c2"
 metafile = true
 
 [[files]]
@@ -431,7 +431,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "c9463ae707c135b52a16571a068f4a56edfc3e53aca6cbb95b2f47817a6427b1"
+hash = "a53081449399d23af9c62f1e4b1118606d7cc86a11badae59970dfe061caf464"
 metafile = true
 
 [[files]]
@@ -446,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/wildfirefly.pw.toml"
-hash = "62b59e7ffa7a8ed2c14c1dc5c879d157120857e50290424d8b6c37d31e172902"
+hash = "de27954b8b8856b5f7ac6fab645a0bebe3236bb725ace6775e61f9c8e61e6bc1"
 metafile = true
 
 [[files]]
