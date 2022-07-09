@@ -16,7 +16,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "551998b4b9aa15203ba54bf21d5517377a6ce189934fd2b858e24b1e0047deb7"
+hash = "d319b4fe3747fbbd848a423f05641232c7a410547bd7fa3a6e3843ce46ff929b"
 metafile = true
 
 [[files]]
@@ -361,7 +361,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "c9463ae707c135b52a16571a068f4a56edfc3e53aca6cbb95b2f47817a6427b1"
+hash = "a53081449399d23af9c62f1e4b1118606d7cc86a11badae59970dfe061caf464"
 metafile = true
 
 [[files]]
