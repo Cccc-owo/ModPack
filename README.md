@@ -56,7 +56,6 @@ Obviously, this modpack is for Fabric, and I do NOT have any intension to make a
 |Better Mount HUD|✅|✅|❌|
 |Better Nether Map|❌|✅|✅|
 |Better Safe Bed|✅|✅|✅|
-|Better Sodium Video Settings Button|✅|✅|✅|
 |Blanket client-tweaks|❌|✅|❌|
 |Block Entity Extended Rendering|✅|✅|❌|
 |Boat Item View|✅|✅|✅|
