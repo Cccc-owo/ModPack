@@ -60,11 +60,6 @@ hash = "067ce28d816f9ecf8796dea0cb3ab4734683cd7ee0e80fa524af217c4c1ce381"
 metafile = true
 
 [[files]]
-file = "mods/betterloadingscreen.pw.toml"
-hash = "0411f0d70bd84a1b6cb8bb2afe36c9efac88493ef9c142511094a7a8b3995055"
-metafile = true
-
-[[files]]
 file = "mods/boat-item-view.pw.toml"
 hash = "67239981d8f29860e0de6d2462630a9eeb839ee44b633c3dc3d41e8760426a08"
 metafile = true
@@ -392,6 +387,11 @@ metafile = true
 [[files]]
 file = "mods/raised.pw.toml"
 hash = "014566a9d16177ef1499864718b28090b5ac254e3e910a2cea67b911b56f3e5a"
+metafile = true
+
+[[files]]
+file = "mods/rbip.pw.toml"
+hash = "f61244e6df1f1630d1863b42acaeec0276bc02a11a91fb74ba7711bef2494a2e"
 metafile = true
 
 [[files]]
