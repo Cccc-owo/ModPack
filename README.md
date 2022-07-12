@@ -66,6 +66,7 @@ Obviously, this modpack is for Fabric, and I do NOT have any intension to make a
 |Carpet-Fixes|✅|✅|❌|
 |Carpet|✅|✅|✅|
 |Chat Heads|✅|✅|✅|
+|Chat Lag Fix|❌|❌|✅|
 |Chime|✅|✅|✅|
 |CIT Resewn|✅|✅|❌|
 |Client Commands|✅|✅|✅ (From GitHub)|
