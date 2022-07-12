@@ -24,7 +24,7 @@ You can check corresponding branch to know more about them.
 
 More versions to be supported are based on my favor.
 
-## Fabric of Forge
+## Fabric or Forge
 
 Obviously, this modpack is for Fabric, and I do NOT have any intension to make a Forge version because many mods of which are just for Fabric.
 
