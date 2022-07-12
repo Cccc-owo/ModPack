@@ -129,8 +129,8 @@ Obviously, this modpack is for Fabric, and I do NOT have any intension to make a
 |multiconnect|⭕ (see [WildFirefly/issues/2](https://github.com/FireMuffin303/WildFirefly/issues/2))|❌|✅(From GitHub)|
 |Multi World Borders|✅|✅|✅|
 |Music Duration Reducer|✅|✅|✅|
-|No More Useless Keys - NMUK|✅|✅|✅|
 |No Chat Reports|✅|❌|❌|
+|No More Useless Keys - NMUK|✅|✅|✅|
 |Not Enough Animations|✅|✅|✅|
 |NotifMod|✅|✅|✅|
 |Ok Zoomer|⭕ (quilt needed)|⭕|✅|
