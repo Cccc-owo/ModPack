@@ -480,6 +480,11 @@ hash = "a53081449399d23af9c62f1e4b1118606d7cc86a11badae59970dfe061caf464"
 metafile = true
 
 [[files]]
+file = "mods/visuality.pw.toml"
+hash = "9ff97d15f98320cec39af7c1e1fe9b9a5aaf4d51e899ffdfdbb4ad1fc1b03f4f"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "1019a95bc491e51612313e91338271ca19fc1e572b9f48a2f9bfd3d5fbf88b71"
 metafile = true
