@@ -94,7 +94,7 @@ Obviously, this modpack is for Fabric, and I do NOT have any intension to make a
 |Falling Leaves|✅|✅|✅|
 |Fastload|✅|✅|❌|
 |FerriteCore|✅|✅|✅|
-|ForgeConfigAPIPort|✅|✅|❌|
+|ForgeConfigAPIPort|✅|✅ (No need)|❌|
 |Held Item Info|✅|✅|✅|
 |Horse Stats Vanilla|✅|✅|✅|
 |Iceberg|✅|✅|❌|
