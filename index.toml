@@ -55,6 +55,11 @@ hash = "757207131774e618e46c6c0ad407c8ba7c45d3c9c4fb59ffa8209d1bfe04a0d8"
 metafile = true
 
 [[files]]
+file = "mods/better-nether-map.pw.toml"
+hash = "6e8713b234f6c251eee4107e44a799d7ba3039c7f45f33371292e05ae6c54422"
+metafile = true
+
+[[files]]
 file = "mods/better-safe-bed.pw.toml"
 hash = "97bbad91a8fd057a0d7472f1bef9100808823c64dcb745799bd02bdd9a288cca"
 metafile = true
@@ -110,6 +115,11 @@ hash = "ce68fe066c471b3a2c503e694c3b88581ad5af3e509f8c5cf672adeb1adf11f2"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "fbdaf57021062d11aeb12a094abba257a13da22e2a8ed4b1cd9ab3bc85274ae7"
+metafile = true
+
+[[files]]
 file = "mods/chime.pw.toml"
 hash = "5af1239f6c1c48fef43fdefbbbff5e5190cc173842f86d7ec44d03e6b309fcbe"
 metafile = true
@@ -132,11 +142,6 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "c7db587d0799043490a1cdc144bbcc7a3ddaaff13e2f5ebbb145b796c1ce7115"
-metafile = true
-
-[[files]]
-file = "mods/collective-fabric.pw.toml"
-hash = "48950625c9e767180664bd130ccdc7ef657626bb933bea64aa57091663d1cbbc"
 metafile = true
 
 [[files]]
@@ -180,11 +185,6 @@ hash = "2836be90ea231d36f26eb597a74eed13c023ec57d0fc2e72d8a26b16578fd495"
 metafile = true
 
 [[files]]
-file = "mods/difficulty-lock-fabric.pw.toml"
-hash = "1a8d597973bedfd0e98d15b887e024322744341b34026a57ed4072285b19826a"
-metafile = true
-
-[[files]]
 file = "mods/dont-drop-it.pw.toml"
 hash = "00b28cee12cf1200b8f59abbe3d82a46d57274f9ed9f2c75d3b768c613d31593"
 metafile = true
@@ -202,11 +202,6 @@ metafile = true
 [[files]]
 file = "mods/dynamiccrosshaircompat.pw.toml"
 hash = "1ed37cc07b9b3e50a81e9978661cfe206abb3a2543eae3ed39460602b2203ebd"
-metafile = true
-
-[[files]]
-file = "mods/easy-elytra-takeoff-fabric.pw.toml"
-hash = "21bcbcc64ea0f468c8da150576b5c4b15045cf299c9172cc138278e7d818c746"
 metafile = true
 
 [[files]]
@@ -232,6 +227,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "c57ab7e92b672af93416304950b083d0b20aabe41af61d0993292dfef80744bf"
+metafile = true
+
+[[files]]
+file = "mods/fabriccrossdimtpfix.pw.toml"
+hash = "414b4e650f2988a6a8f6a6c9922c6dbc6ed706e1623f84e71ede1c939536c5a5"
 metafile = true
 
 [[files]]
@@ -265,6 +265,11 @@ hash = "291a0f6873fbf4a0e1afc93e9a24b44418b06782da736e8797965047d848d654"
 metafile = true
 
 [[files]]
+file = "mods/horsestatsvanilla.pw.toml"
+hash = "04fc805604ed8d62a39e9bae043faea0fd427e0084f2f86ecaecc2fbbc5830a2"
+metafile = true
+
+[[files]]
 file = "mods/iceberg-fabric.pw.toml"
 hash = "60f6269fd7d2aa52defc49fc4963a6736581b341910c7e537c9dbcb97525f83c"
 metafile = true
@@ -272,6 +277,11 @@ metafile = true
 [[files]]
 file = "mods/imblocker.pw.toml"
 hash = "c94c1de037596582d9d417f6efd87b5076e66f533073bce83de94b4a7bb20d30"
+metafile = true
+
+[[files]]
+file = "mods/improved-fire-overlay.pw.toml"
+hash = "1ea60a3bd9a3092c996b205f78773cb19b77891fc854d2112ebba7f36b286d01"
 metafile = true
 
 [[files]]
@@ -495,8 +505,23 @@ hash = "56e1493909191f7b366a64ff4b65fa94bfc0b64dbaf965f25096077bbd9e2bcd"
 metafile = true
 
 [[files]]
+file = "mods/tiefix.pw.toml"
+hash = "61437323b2bcc7ea579161059f7128d2aad4a38188a0b7a3cbd031165c6b8b2b"
+metafile = true
+
+[[files]]
+file = "mods/tweakermore.pw.toml"
+hash = "2263f07e6ab096eddfda9d94603824f02439cbedde50eca4c20a4a4e87f6fdd1"
+metafile = true
+
+[[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "cb5e5c012f6f647c38ab1eceecc9029ad1ef3f36a362b1c9115c6a5122b88455"
+metafile = true
+
+[[files]]
+file = "mods/ui-input-undo-fabric.pw.toml"
+hash = "ff1b3eef89752e0aa9c1be02d67760c441d7cd4b4c6ddf38c851eea4ced49a31"
 metafile = true
 
 [[files]]
@@ -517,6 +542,11 @@ metafile = true
 [[files]]
 file = "mods/wthit.pw.toml"
 hash = "98c8ffafe56c38e04da80c8c061e1f1dfc1212a53f3b0c90d7f6b3381c961e95"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
 metafile = true
 
 [[files]]
