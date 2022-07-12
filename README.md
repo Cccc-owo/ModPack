@@ -138,6 +138,7 @@ Obviously, this modpack is for Fabric, and I do NOT have any intension to make a
 |Phosphor|⭕ (Choose Starlight as replacement)|⭕|✅|
 |Rainbowify|✅|✅|❌|
 |Raised|✅|✅|✅|
+|Recipe Book is Pain|✅|✅|❌|
 |Reese's Sodium Options|✅|✅|✅|
 |Resounding|❌|✅|❌|
 |Roughly Enough Items (REI)|✅|✅|✅|
@@ -161,7 +162,8 @@ Obviously, this modpack is for Fabric, and I do NOT have any intension to make a
 |UI Input Undo (Fabric)|✅|✅|❌|
 |VehicleFix|✅|❌|❌|
 |ViaFabric|✅|✅|✅|
-|Very Many Players (Fabric)|✅ (Develeoping)|❌|❌|
+|Visuality|✅|✅|❌|
+|Very Many Players (Fabric)|✅ (Develeoping)|✅|❌|
 |Wavey Capes|✅|✅|✅|
 |Wild Firefly|✅|❌|❌|
 |WTHIT|✅|✅|✅|
