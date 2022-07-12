@@ -31,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/attributefix.pw.toml"
-hash = "abf7dab28f3fd1b6d0d670db755b266d00cca85a2f7e865cefd979946b687a9d"
+hash = "40dd64add3884b98011e8818911b1d6b61838dff863be8bd99cd2d299d39e035"
 metafile = true
 
 [[files]]
@@ -57,11 +57,6 @@ metafile = true
 [[files]]
 file = "mods/better-safe-bed.pw.toml"
 hash = "067ce28d816f9ecf8796dea0cb3ab4734683cd7ee0e80fa524af217c4c1ce381"
-metafile = true
-
-[[files]]
-file = "mods/better-sodium-video-settings-button.pw.toml"
-hash = "05c432ad205a2720977639f9382dc768bc6cf8360e791cc923ea65f400701646"
 metafile = true
 
 [[files]]
@@ -131,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "cf897a14537e23af6a7dab198d40a14a53580d3c072d15ebb60008efd5db5350"
+hash = "a567bff99a6dea536cc8fd0d51df141d158cd000008eb2e5f53f20b1e14ee35e"
 metafile = true
 
 [[files]]
@@ -346,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "f0a7c49ae4417a753722da78046a7513e059e5964e21154f4aef50df6a1d6ed0"
+hash = "482d796d5448f41d254a12f60dc3891f88b5337c9d87ef0775306de00f9ef6e6"
 metafile = true
 
 [[files]]
@@ -416,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "55b9d66bb3b6fe78e3f79d0018870efdafa51f04441bb32d410650b7a178e0c2"
+hash = "e89465a06c9655a861eee0c3593c69bb7fcbeb3c3044b92f6ee96d3e0f8ba4d7"
 metafile = true
 
 [[files]]
