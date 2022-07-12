@@ -45,8 +45,8 @@ hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
 metafile = true
 
 [[files]]
-file = "mods/balm.pw.toml"
-hash = "f741a118c2289e87b550b8b139a5bab8917fbe08a84039de6917d237253c5358"
+file = "mods/beer.pw.toml"
+hash = "0113ace057812dd0644b2347a398b9bde9ba239f0cac8d9cadc30575ebce982f"
 metafile = true
 
 [[files]]
@@ -62,6 +62,11 @@ metafile = true
 [[files]]
 file = "mods/better-sodium-video-settings-button.pw.toml"
 hash = "05c432ad205a2720977639f9382dc768bc6cf8360e791cc923ea65f400701646"
+metafile = true
+
+[[files]]
+file = "mods/betterloadingscreen.pw.toml"
+hash = "0411f0d70bd84a1b6cb8bb2afe36c9efac88493ef9c142511094a7a8b3995055"
 metafile = true
 
 [[files]]
@@ -175,6 +180,11 @@ hash = "88724f93717dca5ba1a9ef5ac8a262ba10058a5685e4abf74d3330cbff9e82fc"
 metafile = true
 
 [[files]]
+file = "mods/dynamiccrosshaircompat.pw.toml"
+hash = "aee5929e208fd1a4142c431499b6c995593665c01b61fea0a44530011a2043df"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "855e5f89a1c2d225f10927dd9bdd06aaffbc0c59b6d2c525460db6f1c9742ad5"
 metafile = true
@@ -225,6 +235,11 @@ hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port-fabric.pw.toml"
+hash = "a720bfb89268d4926acd6879082a941348de4e8231c82f750395706c4944113e"
+metafile = true
+
+[[files]]
 file = "mods/held-item-info.pw.toml"
 hash = "5000279406b731b4d0a809b3127c487f2df6718d0141e33cd5e92869a5c77046"
 metafile = true
@@ -232,6 +247,11 @@ metafile = true
 [[files]]
 file = "mods/horsestatsvanilla.pw.toml"
 hash = "944753da8bcdf23432cec7a559f0681146b0eef0c18f5b94a952b85d20f52fad"
+metafile = true
+
+[[files]]
+file = "mods/iceberg-fabric.pw.toml"
+hash = "2027fc62f27fdabd1f6485dbdc2f4316ea6b04dedf595f839651020d2d861a69"
 metafile = true
 
 [[files]]
@@ -257,6 +277,16 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "e516d6d036f6d407a793c3b9a1fc5a8a817b05c9dc9d8677003fb0a512b2bf6f"
+metafile = true
+
+[[files]]
+file = "mods/item-borders-fabric.pw.toml"
+hash = "96fb4b4ccdd431249be8dc30d656d358b972347bc93734f5f7435c47839ca86e"
+metafile = true
+
+[[files]]
+file = "mods/item-highlighter-fabric.pw.toml"
+hash = "a986468a9f7cc461f7b414f70b178c52bac999e18c37c1da5b518951d0cae358"
 metafile = true
 
 [[files]]
@@ -330,8 +360,8 @@ hash = "bbf8a6fbb8b3ad41f6be33d9438ac1241ad979ee6323b44b668a7ed0a35b7d2d"
 metafile = true
 
 [[files]]
-file = "mods/netherportalfix.pw.toml"
-hash = "b5141c0055ba35ade5a2875969bad890b0c4b80e44d5e22574a122b0b53dbd4e"
+file = "mods/music-duration-reducer.pw.toml"
+hash = "85e9a9b52b2d3673f56a288e3dcf3e48d467573cfe240c467e7fcf683a8ecbee"
 metafile = true
 
 [[files]]
@@ -360,6 +390,16 @@ hash = "1a32186b1e676035de8810f1b6ab6bbb2763996c5e53aef95878908e9d9e487b"
 metafile = true
 
 [[files]]
+file = "mods/rainbowify.pw.toml"
+hash = "02fbb9f973f507224921535be5fa6b566d2ca3a9fbaee9db86da2fc0603be738"
+metafile = true
+
+[[files]]
+file = "mods/raised.pw.toml"
+hash = "014566a9d16177ef1499864718b28090b5ac254e3e910a2cea67b911b56f3e5a"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "b4d8e22f7916c1a2e8be07b708cd02d16bd730e382bb7ca36a615cf3e6782940"
 metafile = true
@@ -382,6 +422,11 @@ metafile = true
 [[files]]
 file = "mods/slight-gui-modifications.pw.toml"
 hash = "578dbeb46066efda08472b2f6b30d6c2f43aed1ddcee3786a0d4aaa2f3599dcf"
+metafile = true
+
+[[files]]
+file = "mods/smooth-scrolling-everywhere-fabric.pw.toml"
+hash = "4b739b90aa5ca2eac2b43a9482a0c0ee80718415352a0644e6770480ff38de32"
 metafile = true
 
 [[files]]
@@ -417,6 +462,11 @@ metafile = true
 [[files]]
 file = "mods/tiefix.pw.toml"
 hash = "4030c2a4d6eacab88b8993578ef19f874a2cbcf4fd0bf09b88eda32d3cecdbf1"
+metafile = true
+
+[[files]]
+file = "mods/tooltipsplus.pw.toml"
+hash = "a73d2d5b5b4d02fd8ed3cd764dd2856ec727e01520a2ddd858b69db8c9945bd0"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Tooltips+"
+filename = "tooltipsplus-1.2.1+1.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aYZWZvWI/versions/1.2.1/tooltipsplus-1.2.1%2B1.19.jar"
+hash-format = "sha1"
+hash = "ab352dac17b46b9233d54395e138fa98d155e6bd"
+
+[update]
+[update.modrinth]
+mod-id = "aYZWZvWI"
+version = "JVGdt32E"
