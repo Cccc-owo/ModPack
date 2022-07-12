@@ -36,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/autohud.pw.toml"
-hash = "71e2dff35915de983821b026e8248fb58c9051a3ba792cf5b55c430ac71d16be"
+hash = "03ba70eaa75ba1cf0f4782c2ff7d60d2cadfe79efd76034889772f2e3cb66858"
 metafile = true
 
 [[files]]
@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "4c417bc89ddd9c3ab9f3719b90dfea4379ebcc52a9fe16d08ec7c496ec96fb6d"
+hash = "88724f93717dca5ba1a9ef5ac8a262ba10058a5685e4abf74d3330cbff9e82fc"
 metafile = true
 
 [[files]]
@@ -356,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "6abb2071e06ebda2ee6ceee2a0a469e71d04934069dcd351ed13ccba8b1e4ef7"
+hash = "1a32186b1e676035de8810f1b6ab6bbb2763996c5e53aef95878908e9d9e487b"
 metafile = true
 
 [[files]]
@@ -366,7 +366,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "800dbeeb7a5e8a92cc64118b9c75c33ed9f426d9b83a0e378f564650633f2509"
+hash = "f18fb647d438b68de8cf2a01900d16cdc1d6477e2f49e71d6a5b5d012b47b0a1"
 metafile = true
 
 [[files]]
