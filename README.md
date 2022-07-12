@@ -153,8 +153,8 @@ Obviously, this modpack is for Fabric, and I do NOT have any intension to make a
 |Symbol Chat|✅|✅|❌|
 |thorium|✅|✅|❌|
 |TieFix|✅|✅|❌|
-|Tooltips+|✅|❌|✅|
 |Title Fixer|❌|❌|✅|
+|Tooltips+|✅|❌|✅|
 |TRansliterationLib|❌|❌|✅|
 |Tweakermore|❌|✅|✅|
 |Tweakeroo|❌|✅|✅|
