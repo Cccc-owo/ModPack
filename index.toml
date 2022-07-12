@@ -290,6 +290,11 @@ hash = "0797539db137abccac0caf4de871e987371d5414c609a972eb6c1c1b891d5c88"
 metafile = true
 
 [[files]]
+file = "mods/music-duration-reducer.pw.toml"
+hash = "a5953d77c31ca31502d0c776deb35481b5cc0d03389f4693af835b83b16aea49"
+metafile = true
+
+[[files]]
 file = "mods/nmuk.pw.toml"
 hash = "825c9797bef0f9cd47c2cad7eccad1bcf59b178b0754eaeca5acb06d2c9b60e2"
 metafile = true
@@ -315,6 +320,11 @@ hash = "bdb442a0469f6dcae8668a413b6ed05caaab5614d887aa1258cf5d06df203b7e"
 metafile = true
 
 [[files]]
+file = "mods/raised.pw.toml"
+hash = "5e2b8e32898bf07c944fdf8fc758c1dde2940da982964b23af235575a0699598"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "e447acdfa50248fa4248aa6bdc1aa3c3e39fe29f6c2e2dbe283b3bd960dd5553"
 metafile = true
@@ -327,6 +337,11 @@ metafile = true
 [[files]]
 file = "mods/slight-gui-modifications.pw.toml"
 hash = "1b3530255c239fe972b585ecd4767b5934ac35fabd818dff1fdecc9c611e7b04"
+metafile = true
+
+[[files]]
+file = "mods/smooth-scrolling-everywhere-fabric.pw.toml"
+hash = "187156ea9460f0531f8469b5aa46c857cc91a6d524b2ccaad417a5eb975b0d79"
 metafile = true
 
 [[files]]
