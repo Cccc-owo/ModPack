@@ -5,10 +5,6 @@ file = "LICENSE"
 hash = "8108bb454d96cd1196f08f87b3fc973add1a9755a609908164a3cc30b63937dd"
 
 [[files]]
-file = "cover.png"
-hash = "1d724276655fe42362fd9d3578836b9034769405b0c2d5765e38688dcc9ea9a9"
-
-[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "d16ad5625096ed2f3953a5eb59c7fd54b78ced0fa7ebc91c29fb6886d1e0caff"
 metafile = true
