@@ -435,6 +435,11 @@ hash = "389f2d01e0f3417395d0ff8c9c7b267c8c0b1f2d67cb583a450a637bec8f3239"
 metafile = true
 
 [[files]]
+file = "mods/rbip.pw.toml"
+hash = "f61244e6df1f1630d1863b42acaeec0276bc02a11a91fb74ba7711bef2494a2e"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "c704ab1b78607e345633f54f6f0d3a4ffa9fdb37600c87a794bd67fab3ec9b54"
 metafile = true
