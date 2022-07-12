@@ -1,13 +1,13 @@
-name = "Cccc's-Simple-Modpack"
+name = "Cccc's-Simple-Modpack-1.18.2"
 author = "Cccc_"
-version = "1.0.0"
+version = "v1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = ""
+hash = "7d207652e7c319c14cfa721f36fc31242947cd835c748659394b75421c2b4398"
 
 [versions]
-fabric = ""
-minecraft = ""
+fabric = "0.14.8"
+minecraft = "1.18.2"

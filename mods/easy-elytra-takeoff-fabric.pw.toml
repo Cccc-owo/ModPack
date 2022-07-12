@@ -1,0 +1,13 @@
+name = "Easy Elytra Takeoff (Fabric)"
+filename = "easyelytratakeoff-fabric_1.18.x-2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4e54c50bbc8d7cc82259e71dfdd931c57e02567e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3542275
+project-id = 530654
