@@ -75,6 +75,7 @@ Obviously, this modpack is for Fabric, and I do NOT have any intension to make a
 |Colormatic|✅|✅|✅|
 |Continuity|✅|✅|❌|
 |Crowmap|✅|✅|✅|
+|CullLessLeaves|✅|⭕|❌|
 |CustomSkinLoader|✅|✅|✅|
 |Debugify|✅|✅|❌|
 |Delete Worlds To Trash|❌|✅|❌|
