@@ -140,6 +140,11 @@ hash = "30f1ee40932a5918f97f85ac3c9bd48f2545e3baf0f40fde6a631606aae59b52"
 metafile = true
 
 [[files]]
+file = "mods/cull-less-leaves.pw.toml"
+hash = "5e289f7ef37b75b340dde02ee3a11a92ba6d4f045fd4f67eb3647b18cf51f739"
+metafile = true
+
+[[files]]
 file = "mods/customskinloader.pw.toml"
 hash = "ecbd5ca9971a690954e4aa8e4ab991c9b64ddce59442519478bf376226fcf4d8"
 metafile = true
