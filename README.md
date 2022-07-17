@@ -148,7 +148,7 @@ Obviously, this modpack is for Fabric, and I do NOT have any intension to make a
 |Show Me What You Got|❌|✅|❌|
 |Simple Voice Chat|✅|✅|❌|
 |'Slight' Gui Modifications|✅|✅|✅|
-|Smoke Suppression|✅|✅|❌|
+|Smoke Suppression|✅|✅|✅|
 |Smooth Scrolling Everywhere|✅|✅|✅|
 |Sodium Extra|✅|✅|✅|
 |Sodium|✅|✅|✅|
