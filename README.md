@@ -48,6 +48,7 @@ Obviously, this modpack is for Fabric, and I do NOT have any intension to make a
 |Architectury API|✅|✅|✅|
 |Armor Points ++ / Health Stacking|✅|✅|❌|
 |AttributeFix|✅|✅|❌|
+|Auditory|✅|❌|❌|
 |Auto HUD|✅|✅|❌|
 |bad packets|✅|✅|❌ (no need)|
 |Better Drpped Items|❌|❌|✅|
