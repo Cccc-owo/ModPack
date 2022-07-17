@@ -291,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "d162092b7040429242c744d9e823f2b9386fa3fa8961d238bfbc7aaaf6bb499a"
+hash = "277253078831fc78a710a827b49a325edfdd3e699b2f50e0091ff1ecba231933"
 metafile = true
 
 [[files]]
@@ -436,7 +436,7 @@ metafile = true
 
 [[files]]
 file = "mods/rbip.pw.toml"
-hash = "f61244e6df1f1630d1863b42acaeec0276bc02a11a91fb74ba7711bef2494a2e"
+hash = "c85b765e5cb6637b139a954148162522100a930527be52e1f3dcd69a4e06fe5d"
 metafile = true
 
 [[files]]
@@ -466,12 +466,17 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "c1a639ead2e237be7d1ee345963b61304d41f64c6529040e6a6f63c6e115bcae"
+hash = "a202ea0107887d35cbbe5c439f816ca0af50e727df92c451ce41dd9e75105496"
 metafile = true
 
 [[files]]
 file = "mods/slight-gui-modifications.pw.toml"
 hash = "6712f720696377f5e8340ce1db3b636fdcf0ae01f85016f9d81b4e9f12552151"
+metafile = true
+
+[[files]]
+file = "mods/smoke-suppression.pw.toml"
+hash = "4043f22743cddc2e262f2fe2b0541f6cab49116147d76c1887cb5cac0ef0bcde"
 metafile = true
 
 [[files]]
@@ -531,7 +536,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "a53081449399d23af9c62f1e4b1118606d7cc86a11badae59970dfe061caf464"
+hash = "245d6cbe0881847ca901cdfa58272ce92b32e354a228d6d2cf44de3351a5a9c2"
 metafile = true
 
 [[files]]
@@ -541,7 +546,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "e41f440d8a1f6d1dd47a689cbac77ca99b2d48682a9b4ef58518f732e3db6ad3"
+hash = "95ced6d1cec31ae63190b5117dc04b7ead1e943d0a00e015397a66171031c69e"
 metafile = true
 
 [[files]]
