@@ -21,7 +21,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "de6d50da50da827ee4c4f2a6d23a936b54aef90acbf2bbbd019fed216b21f2ab"
+hash = "c3f4413a6233b9b037854befc548a64ba4eb9f36dabb2adb0f8589182823f8bb"
 metafile = true
 
 [[files]]
@@ -32,6 +32,11 @@ metafile = true
 [[files]]
 file = "mods/attributefix.pw.toml"
 hash = "40dd64add3884b98011e8818911b1d6b61838dff863be8bd99cd2d299d39e035"
+metafile = true
+
+[[files]]
+file = "mods/auditory.pw.toml"
+hash = "4385eda2b4befc04b99c7e12f0be36ba1dbc3d295a027d9a758fb9ab1e5d548a"
 metafile = true
 
 [[files]]
@@ -241,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/horsestatsvanilla.pw.toml"
-hash = "944753da8bcdf23432cec7a559f0681146b0eef0c18f5b94a952b85d20f52fad"
+hash = "2d89ca796ad576935102b7ba64e4c53afcb3d321fd1fc21390fa0a2574c91204"
 metafile = true
 
 [[files]]
@@ -266,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "26894893b73719ef3dd79e4a8b11bf407f5bd7987679b41c1f01fd454e82dfc1"
+hash = "3f196a5ba67e18f52901014dd413376944faf11cbf2f35722a08ac6195dd363d"
 metafile = true
 
 [[files]]
@@ -336,17 +341,17 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "dc1f47a526f2264dc215437a81668d54c084d5beaaa6cbf6e284b88a59af88b5"
+hash = "20f2b538d972ec20e27576d69986299db9c1482405da3ec3d50339ce92ff681e"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "482d796d5448f41d254a12f60dc3891f88b5337c9d87ef0775306de00f9ef6e6"
+hash = "a5c86b836f2213ad4db415d13f6ef5caa379ce348605a29224eb7703b81f1f95"
 metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "666ebc5403d60bbaea03d0c82e83e3f1fa75756a77501dab3ec2a7b7bf2b24dd"
+hash = "5221c63788bfa294975a1d20265d8b075a59633c23bbb72f972a3f5c9dad50ec"
 metafile = true
 
 [[files]]
@@ -396,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/rbip.pw.toml"
-hash = "f61244e6df1f1630d1863b42acaeec0276bc02a11a91fb74ba7711bef2494a2e"
+hash = "c85b765e5cb6637b139a954148162522100a930527be52e1f3dcd69a4e06fe5d"
 metafile = true
 
 [[files]]
@@ -406,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "f18fb647d438b68de8cf2a01900d16cdc1d6477e2f49e71d6a5b5d012b47b0a1"
+hash = "262747a4c510468917e3ba218fe95680e17ce80522661c65157d64a8ec40a62f"
 metafile = true
 
 [[files]]
@@ -416,12 +421,17 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "e89465a06c9655a861eee0c3593c69bb7fcbeb3c3044b92f6ee96d3e0f8ba4d7"
+hash = "09d3b9629b19742f8c63919536603675d1a9457a0a15d16f48a8b3d8413cb6ea"
 metafile = true
 
 [[files]]
 file = "mods/slight-gui-modifications.pw.toml"
 hash = "578dbeb46066efda08472b2f6b30d6c2f43aed1ddcee3786a0d4aaa2f3599dcf"
+metafile = true
+
+[[files]]
+file = "mods/smoke-suppression.pw.toml"
+hash = "3ad83f260c8bd9b9ea87e8835be9165dcb491b6d18a33199195a92b4a769aa5b"
 metafile = true
 
 [[files]]
@@ -481,7 +491,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "a53081449399d23af9c62f1e4b1118606d7cc86a11badae59970dfe061caf464"
+hash = "245d6cbe0881847ca901cdfa58272ce92b32e354a228d6d2cf44de3351a5a9c2"
 metafile = true
 
 [[files]]
@@ -491,7 +501,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "1019a95bc491e51612313e91338271ca19fc1e572b9f48a2f9bfd3d5fbf88b71"
+hash = "0516b1b0b70444fce8fe01656fc03f1e66b1f8b6e04a6b3b1845a57c80057b72"
 metafile = true
 
 [[files]]
@@ -511,7 +521,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "6511222d86332e8080ab2e4b1d20b361cc699a9c5b78c044c91e0477c40b3c88"
+hash = "8c9cae7d59d985533459a47fb38c3371764bf6483e65c42e5c9521b05744f7fc"
 metafile = true
 
 [[files]]
