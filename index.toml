@@ -206,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "b3f49acaf106b7d0739de2c383bdf85da637acee79dddd13b7ea7aff67a5e31d"
+hash = "2144ecfbc60d9b21736c0072d0e5a28df19c0046fd80020d72e7f64855d4e7b0"
 metafile = true
 
 [[files]]
@@ -340,6 +340,11 @@ hash = "1b3530255c239fe972b585ecd4767b5934ac35fabd818dff1fdecc9c611e7b04"
 metafile = true
 
 [[files]]
+file = "mods/smoke-suppression.pw.toml"
+hash = "93d1b3de15afabaafa1f67f6e938fa150b7a7c5b84fe965ab2cdea1f36a722ea"
+metafile = true
+
+[[files]]
 file = "mods/smooth-scrolling-everywhere-fabric.pw.toml"
 hash = "187156ea9460f0531f8469b5aa46c857cc91a6d524b2ccaad417a5eb975b0d79"
 metafile = true
@@ -376,7 +381,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "a53081449399d23af9c62f1e4b1118606d7cc86a11badae59970dfe061caf464"
+hash = "245d6cbe0881847ca901cdfa58272ce92b32e354a228d6d2cf44de3351a5a9c2"
 metafile = true
 
 [[files]]
