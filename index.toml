@@ -195,6 +195,11 @@ hash = "60c798ad6cb06c66714ac413e3c867bc2bb8c3b0eab450e9d430142f5f732d55"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-searchability.pw.toml"
+hash = "e8e4c4c6d7664cb92ee0cd9648d97103cd28e8d2d3f76dfe5ca71c0481019ba2"
+metafile = true
+
+[[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "d476772028d7d681aadd6a06fb8484cbf8476389267f6fd53293a17af3460bce"
 metafile = true
@@ -341,7 +346,12 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "20f2b538d972ec20e27576d69986299db9c1482405da3ec3d50339ce92ff681e"
+hash = "9bedd7ca66c806a5bc8bfefc04ac3a4665bccf3a6672e3a4ebd69dd752c5ee6f"
+metafile = true
+
+[[files]]
+file = "mods/mixin-conflict-helper.pw.toml"
+hash = "f89672b5ffcb247fb31e616b4de8f7e8a460802c7826d27a64328f27c190734d"
 metafile = true
 
 [[files]]
@@ -351,12 +361,12 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "5221c63788bfa294975a1d20265d8b075a59633c23bbb72f972a3f5c9dad50ec"
+hash = "a36c4ccbc2b3748f8a7e0818cc495b614a67f9b56ae977bd7d3b9974b36ee819"
 metafile = true
 
 [[files]]
 file = "mods/moremcmeta.pw.toml"
-hash = "bbf8a6fbb8b3ad41f6be33d9438ac1241ad979ee6323b44b668a7ed0a35b7d2d"
+hash = "5fccf4b85929dbb2d693d8a59c3b36bc9655c0ccd6bc04098d5336caed479561"
 metafile = true
 
 [[files]]
@@ -401,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/rbip.pw.toml"
-hash = "c85b765e5cb6637b139a954148162522100a930527be52e1f3dcd69a4e06fe5d"
+hash = "f0ff4dcea69e7dbacdb7764cc337cc90a07d7e346811050866dfee97799259c6"
 metafile = true
 
 [[files]]
@@ -501,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "0516b1b0b70444fce8fe01656fc03f1e66b1f8b6e04a6b3b1845a57c80057b72"
+hash = "15bf1b7f931e37f95db87ce7c50d2f1a8dc6b420c46856c2bbdca09bbf18ee62"
 metafile = true
 
 [[files]]

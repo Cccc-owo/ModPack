@@ -1,13 +1,13 @@
 name = "Recipe Book is Pain"
-filename = "recipe-book-is-pain-0.4-1.18.jar"
+filename = "recipe-book-is-pain-0.6-1.18.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/etNS9OnA/versions/0.4/recipe-book-is-pain-0.4-1.18.jar"
+url = "https://cdn.modrinth.com/data/etNS9OnA/versions/0.6/recipe-book-is-pain-0.6-1.18.jar"
 hash-format = "sha1"
-hash = "9464553d231851198844bf6b5add5961bf78531c"
+hash = "3e9b134a7e948c1e3f923240065038b00372881d"
 
 [update]
 [update.modrinth]
 mod-id = "etNS9OnA"
-version = "DlbycXxv"
+version = "21BCZIoF"
