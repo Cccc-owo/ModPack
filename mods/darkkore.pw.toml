@@ -1,0 +1,13 @@
+name = "DarkKore"
+filename = "DarkKore-0.2.1-1.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mB8GNQWO/versions/0.2.1-1.19/DarkKore-0.2.1-1.19.jar"
+hash-format = "sha1"
+hash = "15e9e91b8f61195edf3884b0ed249047b7b871ad"
+
+[update]
+[update.modrinth]
+mod-id = "mB8GNQWO"
+version = "6uPWJZIF"

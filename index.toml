@@ -21,7 +21,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "c3f4413a6233b9b037854befc548a64ba4eb9f36dabb2adb0f8589182823f8bb"
+hash = "f1ee36b330c4058ee5f0732d3b85e2622d58c3e422f5bd525d1b1472f365c221"
 metafile = true
 
 [[files]]
@@ -65,6 +65,16 @@ hash = "067ce28d816f9ecf8796dea0cb3ab4734683cd7ee0e80fa524af217c4c1ce381"
 metafile = true
 
 [[files]]
+file = "mods/betterblockoutline.pw.toml"
+hash = "772cffc8ccc457e8cd341cf66ddc13a8ad835308de9c11eca027d48578631c6a"
+metafile = true
+
+[[files]]
+file = "mods/betterhurtcam.pw.toml"
+hash = "c6fca777fc652a52d0bfe5ddccd20fc4a3423a8d66a31c455362f3a09414be7c"
+metafile = true
+
+[[files]]
 file = "mods/boat-item-view.pw.toml"
 hash = "67239981d8f29860e0de6d2462630a9eeb839ee44b633c3dc3d41e8760426a08"
 metafile = true
@@ -91,7 +101,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-fixes.pw.toml"
-hash = "8cfe6fd7b3cb91b32b487a6cd3493a3ec050f239efe327b912248a8192a83495"
+hash = "6529351e1885ac778d23692fb57584351c7bedfb9678f73b3ed11d489da37bfe"
 metafile = true
 
 [[files]]
@@ -151,7 +161,12 @@ metafile = true
 
 [[files]]
 file = "mods/customskinloader.pw.toml"
-hash = "ecbd5ca9971a690954e4aa8e4ab991c9b64ddce59442519478bf376226fcf4d8"
+hash = "962114e1380ac1a83e59f287d90edd0af6a55b5d3d8f5a41c50619419f22c0c0"
+metafile = true
+
+[[files]]
+file = "mods/darkkore.pw.toml"
+hash = "bebe06511f6db0492f0e649a505914455f06615318d7caac8ba2265e90fecbf9"
 metafile = true
 
 [[files]]
@@ -161,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "004dbebb72fb7b4afaa12797a18c0871b78da1cc930ee0a9e65a485a99d6232b"
+hash = "85a8fc3737b786b2b9196f131e693c2877f583f5e0265391d08ecf25d9d5e109"
 metafile = true
 
 [[files]]
@@ -211,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "c57ab7e92b672af93416304950b083d0b20aabe41af61d0993292dfef80744bf"
+hash = "8e91eac9da646c5458d00fb68ccf0887bf815947ef549cb19abebe1e6cec5c72"
 metafile = true
 
 [[files]]
@@ -361,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "a36c4ccbc2b3748f8a7e0818cc495b614a67f9b56ae977bd7d3b9974b36ee819"
+hash = "25b0e6c8525a7dd5aceb9e79eb0592371c18fc59ee14a864e5657ecc09beea64"
 metafile = true
 
 [[files]]
@@ -511,7 +526,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "15bf1b7f931e37f95db87ce7c50d2f1a8dc6b420c46856c2bbdca09bbf18ee62"
+hash = "db88bfa6d298529864b3f7c7ada5968d9795f1c3ec0ed65f7954cab6c0ca170c"
 metafile = true
 
 [[files]]
