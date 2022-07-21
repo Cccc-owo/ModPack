@@ -1,12 +1,12 @@
 name = "Cccc's-Simple-Modpack-1.16.5"
 author = "Cccc_"
-version = "v1.0.4"
+version = "v1.0.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "931d7e32724138b4bac8a951bd428fa7a1622d91800f32c8763e19f222fb4e28"
+hash = "ebf834c458896b80ba9e7916b71552083ee52e99fe68a304175e11c7bb387ad6"
 
 [versions]
 fabric = "0.14.8"
