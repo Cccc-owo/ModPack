@@ -90,6 +90,11 @@ hash = "17ce0664c6d4715aaa97169808dae48d9703749eb72249abcaee110f82f56b03"
 metafile = true
 
 [[files]]
+file = "mods/c3h6n6o6.pw.toml"
+hash = "7bb872299f6a0652187beadeeda00dbf861979f46760f78d80112dd7b0c21961"
+metafile = true
+
+[[files]]
 file = "mods/can-i-mine-this-block.pw.toml"
 hash = "b1b9c9516a2c3ff06ca5061aa6b5461c36d6ee6b5f95feb3a1b510ccf94b942b"
 metafile = true
