@@ -51,8 +51,9 @@ Obviously, this modpack is for Fabric, and I do NOT have any intension to make a
 |Auditory|✅|❌|❌|
 |Auto HUD|✅|✅|❌|
 |bad packets|✅|✅|❌ (no need)|
+|BetterBlockOutline|✅|✅|❌|
 |Better Drpped Items|❌|❌|✅|
-|Better Hurt Cam|❌|✅|❌|
+|Better Hurt Cam|✅|✅|❌|
 |Better Loading Screen|✅|✅|✅|
 |Better Mount HUD|✅|✅|❌|
 |Better Nether Map|❌|✅|✅|
@@ -62,6 +63,7 @@ Obviously, this modpack is for Fabric, and I do NOT have any intension to make a
 |Boat Item View|✅|✅|✅|
 |Borderless Mining|✅|✅|✅|
 |Better Recipe Book|✅|✅|✅|
+|c3h6n6o6|✅|✅|❌|
 |cAn i MiNe thIS bLOCk?|✅|✅|✅|
 |Carpet Extra|✅|✅|✅|
 |Carpet-Fixes|✅|✅|❌|
@@ -78,6 +80,7 @@ Obviously, this modpack is for Fabric, and I do NOT have any intension to make a
 |Crowmap|✅|✅|✅|
 |CullLessLeaves|✅|⭕|❌|
 |CustomSkinLoader|✅|✅|✅|
+|DarkKore(lib of BetterBlockOutline)|✅|✅|❌|
 |Debugify|✅|✅|❌|
 |Delete Worlds To Trash|❌|✅|❌|
 |Detail Armor Bar|✅|✅|✅|
@@ -143,6 +146,7 @@ Obviously, this modpack is for Fabric, and I do NOT have any intension to make a
 |Recipe Book is Pain|✅|✅|❌|
 |Reese's Sodium Options|✅|✅|✅|
 |Resounding|❌|✅|❌|
+|Roughly Enough Characters|❌|✅|❌|
 |Roughly Enough Items (REI)|✅|✅|✅|
 |Show Me Your Skin!|✅|✅|❌|
 |Show Me What You Got|❌|✅|❌|
