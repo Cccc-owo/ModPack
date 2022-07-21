@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/detail-armor-bar.pw.toml"
-hash = "31fd660d62b619df1165a0e594a2ca3eba93c790ea14fbcbab64c94bfe9ad257"
+hash = "abac8615d61e71ded676df3e480fb93535dd4857f5d9407cb82409a87426babd"
 metafile = true
 
 [[files]]
