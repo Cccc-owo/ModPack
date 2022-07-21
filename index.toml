@@ -65,8 +65,13 @@ hash = "97bbad91a8fd057a0d7472f1bef9100808823c64dcb745799bd02bdd9a288cca"
 metafile = true
 
 [[files]]
+file = "mods/betterblockoutline.pw.toml"
+hash = "cdd6a78536e3186855690bc142b35caf0e782f4c3929a5c47f5b65d358f82506"
+metafile = true
+
+[[files]]
 file = "mods/betterhurtcam.pw.toml"
-hash = "62c0f4d30a773b42f20397d3017a610d8da36ec0defa1ace0fe5b00d0bce9b48"
+hash = "ab80fef95f6c6ddcf557d9e8a959048531a284cda3f93f4b25a917b6ce0f292a"
 metafile = true
 
 [[files]]
@@ -92,6 +97,11 @@ metafile = true
 [[files]]
 file = "mods/brb.pw.toml"
 hash = "d225c6ff1ddf6be8fed438d159d802a7b23e536b7caed920450b836134b723dc"
+metafile = true
+
+[[files]]
+file = "mods/c3h6n6o6.pw.toml"
+hash = "7bb872299f6a0652187beadeeda00dbf861979f46760f78d80112dd7b0c21961"
 metafile = true
 
 [[files]]
@@ -161,7 +171,12 @@ metafile = true
 
 [[files]]
 file = "mods/customskinloader.pw.toml"
-hash = "ecbd5ca9971a690954e4aa8e4ab991c9b64ddce59442519478bf376226fcf4d8"
+hash = "962114e1380ac1a83e59f287d90edd0af6a55b5d3d8f5a41c50619419f22c0c0"
+metafile = true
+
+[[files]]
+file = "mods/darkkore.pw.toml"
+hash = "e0c9cdfa6fa8d33dbfb2a3a1f176f70577485e08a0956b550e4d662193095e44"
 metafile = true
 
 [[files]]
@@ -226,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "c57ab7e92b672af93416304950b083d0b20aabe41af61d0993292dfef80744bf"
+hash = "8e91eac9da646c5458d00fb68ccf0887bf815947ef549cb19abebe1e6cec5c72"
 metafile = true
 
 [[files]]
@@ -450,6 +465,11 @@ hash = "c537808775d23b10bab57f859614e3b17a40796b0b2f08ce6729e5a192b5496e"
 metafile = true
 
 [[files]]
+file = "mods/roughly-enough-characters.pw.toml"
+hash = "86c4ef056d5d2a56d0f69cd988b656a1201651845e40a7027726fec7c9f090b6"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-items.pw.toml"
 hash = "261c6f1cddd8eb3e4bdab72d2787bbc462007ab169844767bdf38ca1917c6b1d"
 metafile = true
@@ -546,7 +566,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "95ced6d1cec31ae63190b5117dc04b7ead1e943d0a00e015397a66171031c69e"
+hash = "f9f4684f3aee70a4ce6403b476df03068769788a04385b9eb8aec8f5cf44f641"
 metafile = true
 
 [[files]]
