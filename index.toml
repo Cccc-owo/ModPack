@@ -21,7 +21,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "2fdcd8eb8a2e5ae247fad3b5a44d4a3cdf9228e999ecfd5949648d5d1554f345"
+hash = "49a22647b2ec0cf9c7ededb6d4a4655f064a6d1ebbadaff3bf544e201bbea5a1"
 metafile = true
 
 [[files]]
@@ -71,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterhurtcam.pw.toml"
-hash = "ab80fef95f6c6ddcf557d9e8a959048531a284cda3f93f4b25a917b6ce0f292a"
+hash = "283e05d5f67fb139e8afce46ab0d546a61759d4b25c7b25bfe99787182971ca8"
 metafile = true
 
 [[files]]
@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3200ff29bb6bbf40094897959bf850a07852c8267fa67bbb80a6f0494012daf4"
+hash = "bec97cef087562af7a94221cc97acd4abe932a80d8ec979b73e3950ab9006806"
 metafile = true
 
 [[files]]
@@ -385,6 +385,11 @@ hash = "b5b47d70b94e6519b798ce3f172339bba1413ee64cb08c4f0559d0d83b38bed3"
 metafile = true
 
 [[files]]
+file = "mods/map-in-slot.pw.toml"
+hash = "7fff792dae8e7d32a4e585a1c72a5bd4bc173a2cb9fe47cfb12f7ac88a3d3433"
+metafile = true
+
+[[files]]
 file = "mods/mcwifipnp.pw.toml"
 hash = "c94ba62d4826b6828e618ac19992e8d3a8b30b2eab80d6449a2cc023c0b076dc"
 metafile = true
@@ -456,7 +461,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "c704ab1b78607e345633f54f6f0d3a4ffa9fdb37600c87a794bd67fab3ec9b54"
+hash = "b17d25b273caec976c340d196d09482b908d8ae43e389132c787714100ea8186"
 metafile = true
 
 [[files]]
@@ -506,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "696826932a2a382de68f7c843847b6c8c8d5319c022503681494e3cff03e18ff"
+hash = "f234a8e383d2145966b28900ca77012c1fe916e4c599c65a7f0f68acd4efbca1"
 metafile = true
 
 [[files]]
@@ -566,7 +571,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "f9f4684f3aee70a4ce6403b476df03068769788a04385b9eb8aec8f5cf44f641"
+hash = "d46f6b81501e16eb3908b24f982a9f83021bb086201f47bb853f463639260ba9"
 metafile = true
 
 [[files]]
