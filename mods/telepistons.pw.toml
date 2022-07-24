@@ -1,0 +1,13 @@
+name = "Telepistons"
+filename = "telepistons-1.1.1a.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/23PBx0DP/versions/1.1.1a/telepistons-1.1.1a.jar"
+hash-format = "sha1"
+hash = "ef2211a342363840b0b0120ee759f802bb12c032"
+
+[update]
+[update.modrinth]
+mod-id = "23PBx0DP"
+version = "2rdSBDCC"

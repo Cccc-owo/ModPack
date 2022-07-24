@@ -21,7 +21,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "f1ee36b330c4058ee5f0732d3b85e2622d58c3e422f5bd525d1b1472f365c221"
+hash = "b10b2a8ee124f43934c1e483262e1dd7b7480c8eb4adc929b26ed0b5d2d41d3e"
 metafile = true
 
 [[files]]
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "85a8fc3737b786b2b9196f131e693c2877f583f5e0265391d08ecf25d9d5e109"
+hash = "ac2207cfc96eabeec2650f09d9ef72d2597fc7438edc9cbdaf5fbb2ba43bfde2"
 metafile = true
 
 [[files]]
@@ -226,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e5e9cc3b753510f4243bc0fdef37595dffb283a38f9aa368bbba452aa53b811f"
+hash = "1c85df49ef6653679a899b14323d0abe11a99b121c2571f236704d98b4beab24"
 metafile = true
 
 [[files]]
@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
-hash = "89a1591ec6bdd02be3e2aa7a88ea4a3968f29dca33f6554cc524931461e7cdf2"
+hash = "1d533d748141c829666799492b2ee7e6f13dbe54da7839b3e7da1f293ed2f3a2"
 metafile = true
 
 [[files]]
@@ -360,6 +360,11 @@ hash = "cc5cbb9430eea35ef7c057f811ce47e7b8da276689ec5783e0f234bc295e289d"
 metafile = true
 
 [[files]]
+file = "mods/map-in-slot.pw.toml"
+hash = "7fff792dae8e7d32a4e585a1c72a5bd4bc173a2cb9fe47cfb12f7ac88a3d3433"
+metafile = true
+
+[[files]]
 file = "mods/mcwifipnp.pw.toml"
 hash = "76455b5c7973d2a338bff3c4fd18988214482b972d921f521f830897a278aa84"
 metafile = true
@@ -381,7 +386,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "25b0e6c8525a7dd5aceb9e79eb0592371c18fc59ee14a864e5657ecc09beea64"
+hash = "7ce126f60e8e70bfd8d58058858ac59652d69c15f285eb0a9119cc6b2d3458eb"
 metafile = true
 
 [[files]]
@@ -436,7 +441,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "b4d8e22f7916c1a2e8be07b708cd02d16bd730e382bb7ca36a615cf3e6782940"
+hash = "ae4b4112db3f14bcb9e8dc10ea06e83d84bff4d9ad2a3dfd74533c1256b98218"
 metafile = true
 
 [[files]]
@@ -471,7 +476,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "8bdc3c1b5079b7fbe89f995d1a100e1df8dcf47e73ef089abf444ecc8e320527"
+hash = "3f2148f425622b9226aac1a5ea41f6613f9fdc0f484eadd72d30714ab0a73895"
 metafile = true
 
 [[files]]
@@ -495,6 +500,11 @@ hash = "3c2c3206e5017c7a35676870c5d3c23b5f0dc979b7d757e2399bd241249c6ce6"
 metafile = true
 
 [[files]]
+file = "mods/telepistons.pw.toml"
+hash = "c15fc85e0ea7417bc37d4d0ff583bd3139d5a374264e6035390020c820a2c74d"
+metafile = true
+
+[[files]]
 file = "mods/thorium.pw.toml"
 hash = "332f7d3348b81a94368500afcf02ce4a4ec8a4ffc486932c317500b08b0712e7"
 metafile = true
@@ -506,7 +516,7 @@ metafile = true
 
 [[files]]
 file = "mods/tooltipsplus.pw.toml"
-hash = "a73d2d5b5b4d02fd8ed3cd764dd2856ec727e01520a2ddd858b69db8c9945bd0"
+hash = "33ac986eb3e385c15108695a423811550f89c215bfaf44dc0731f2bc4650247f"
 metafile = true
 
 [[files]]
@@ -525,13 +535,18 @@ hash = "245d6cbe0881847ca901cdfa58272ce92b32e354a228d6d2cf44de3351a5a9c2"
 metafile = true
 
 [[files]]
+file = "mods/visible-barriers.pw.toml"
+hash = "3f87d21442012f3dad6d0e104b75d4d63e6fe6bbffef87e588555a838afb6557"
+metafile = true
+
+[[files]]
 file = "mods/visuality.pw.toml"
 hash = "9ff97d15f98320cec39af7c1e1fe9b9a5aaf4d51e899ffdfdbb4ad1fc1b03f4f"
 metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "db88bfa6d298529864b3f7c7ada5968d9795f1c3ec0ed65f7954cab6c0ca170c"
+hash = "bbce979d492829da906d857f26bbbc2e24681b38e190b333b6f3180d20460c08"
 metafile = true
 
 [[files]]
@@ -551,7 +566,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "8c9cae7d59d985533459a47fb38c3371764bf6483e65c42e5c9521b05744f7fc"
+hash = "35262cd74b382a9454c1a06f3cd98cd24bada5935fae364a19768c473e6a7820"
 metafile = true
 
 [[files]]
