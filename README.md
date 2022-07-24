@@ -124,6 +124,7 @@ Obviously, this modpack is for Fabric, and I do NOT have any intension to make a
 |Lithium|✅|✅|✅|
 |Make Bubbles Pop|✅|✅|❌|
 |malilib|❌|✅|✅|
+|Map In Slot|✅|✅|❌|
 |LAN World Plug-n-Play (mcwifipnp)|✅|✅|✅|
 |Memory Leak Fix|✅|✅|❌|
 |MiniHUD|❌|✅|✅|
@@ -159,6 +160,7 @@ Obviously, this modpack is for Fabric, and I do NOT have any intension to make a
 |Starlight (Fabric)|✅|✅|❌|
 |Suggestion Tweaker|✅|✅|❌|
 |Symbol Chat|✅|✅|❌|
+|Telepistons|✅|❌|❌|
 |thorium|✅|✅|❌|
 |TieFix|✅|✅|❌|
 |Title Fixer|❌|❌|✅|
@@ -169,6 +171,7 @@ Obviously, this modpack is for Fabric, and I do NOT have any intension to make a
 |UI Input Undo (Fabric)|✅|✅|❌|
 |VehicleFix|✅|❌|❌|
 |ViaFabric|✅|✅|✅|
+|Visible Barriers|✅|✅|❌|
 |Visuality|✅|✅|❌|
 |Very Many Players (Fabric)|✅ (Develeoping)|✅|❌|
 |Wavey Capes|✅|✅|✅|
